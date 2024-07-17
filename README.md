@@ -10,13 +10,16 @@ Currently, two official plugins are available:
 
 ## output
 
-![Screenshot (91)](https://github.com/user-attachments/assets/ed910a81-28e7-47a5-b667-9ce13adcc95a)
+![Screenshot (60)](https://github.com/user-attachments/assets/b2f8c3e1-9e96-41ba-863e-379532682644)
 
-![Screenshot (92)](https://github.com/user-attachments/assets/e6f2608b-2bed-4109-878e-04356ba9d63d)
 
-![Screenshot (93)](https://github.com/user-attachments/assets/e3c2988b-78cf-43c3-a17b-1e364eb44740)
+![Screenshot (61)](https://github.com/user-attachments/assets/10d002b5-a683-4373-989c-8e8157eac594)
 
-![Screenshot (94)](https://github.com/user-attachments/assets/2eaa7c23-7e04-4efa-a0a3-943834b6560d)
+![Screenshot (62)](https://github.com/user-attachments/assets/e2a36602-0b59-42e9-9842-5c32f08b29cc)
+
+
+![Screenshot (63)](https://github.com/user-attachments/assets/17e4195e-43ad-4102-a2a6-5b4b3337151b)
+
 
 
 
